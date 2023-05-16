@@ -12,6 +12,7 @@ You can try these prompts:
 "Who is the Prime Minister of India"
 
 Screenshots:
+
 ![Screenshot (202)](https://github.com/SahilS2209/Bruno-The-Chatbot-using-Django/assets/91861935/af888524-d4c7-4a9a-b9e9-586950f3e7ce)
 
 ![Screenshot (203)](https://github.com/SahilS2209/Bruno-The-Chatbot-using-Django/assets/91861935/f01ab2da-db7a-4231-9266-a91598d42037)
