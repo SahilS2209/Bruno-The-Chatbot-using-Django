@@ -3,7 +3,7 @@ from django.http import JsonResponse
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "your api key"
 
 
 # Create your views here.
